@@ -402,7 +402,7 @@
 					62D1AE161A1E6D4400E4DFF8 = {
 						CreatedOnToolsVersion = 6.1;
 						DevelopmentTeam = 8Y85BNADS4;
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1130;
 					};
 					62D1AE2B1A1E6D4500E4DFF8 = {
 						CreatedOnToolsVersion = 6.1;
@@ -427,6 +427,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -691,7 +692,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = me.yogev.Validator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -705,7 +706,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = me.yogev.Validator;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};

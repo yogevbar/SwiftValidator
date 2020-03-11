@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "SwiftValidatorNew"
-  s.version      = "4.1.0"
+  s.version      = "4.2.0"
   s.summary      = "A UITextField Validation library for Swift"
   s.homepage     = "https://github.com/jpotts18/SwiftValidator"
   s.screenshots  = "https://raw.githubusercontent.com/jpotts18/SwiftValidator/master/swift-validator-v2.gif"
@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.exclude_files = "Validator/AppDelegate.swift"
   s.frameworks   = ['Foundation', 'UIKit']
   s.requires_arc = true
-  s.swift_version = '4.2'
+  s.swift_version = '5.0'
 end
